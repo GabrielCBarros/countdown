@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+header{
+    display: grid;
+    grid-auto-flow: column;
+}
+.timer{
+    display: grid;
+    
+    grid-auto-flow: column;
+
+}
